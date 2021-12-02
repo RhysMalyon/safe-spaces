@@ -20,6 +20,12 @@ Use the following credentials to explore the app:
 
 Please note that all addresses, users, and images in the current state of Safe Spaces do not represent real-life data. Consider these only for display and demonstration purposes.
 
+## Team Members
+- [Rhys Malyon](https://www.linkedin.com/in/rhysmalyon/)
+- [Cheri Kennedy](https://github.com/akiwidev)
+- [Ope Dada](https://github.com/OpeDada)
+- [Seira Yun](https://github.com/seira-yun)
+
 <hr />
 
 ## Getting started
